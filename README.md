@@ -12,7 +12,7 @@
 
 1. **Клонуйте репозиторій:**
    ```bash
-   git clone <ПОСИЛАННЯ_НА_ТВІЙ_РЕПОЗИТОРІЙ>
+   git clone <ПОСИЛАННЯ НА РЕПОЗИТОРІЙ>
    cd discount_service
  2.Встановити залежності:
    pip install -r requirements.txt
